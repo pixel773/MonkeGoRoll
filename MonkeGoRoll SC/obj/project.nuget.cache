@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvev2BbMp7fK8m/1WaYfkUycNkxJPnJLw3huCa/tmjI6pqqBQ+yPDmzy7cX/fFBo2fnokI5XZMTB2rrU053SDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logan\\source\\repos\\MonkeGoRoll\\MonkeGoRoll\\MonkeGoRoll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
